@@ -10,8 +10,6 @@ import Substraction from './components/substraction/Substraction'
 import Multiplication from './components/multiplication/Multiplication'
 import Division from './components/division/Division'
 
-
-
 function App() {
   return (
     <div className="App">
