@@ -1,5 +1,11 @@
+/* 
+Author adrian
+Date: March 3, 20222
+*/
+
 import logo from './logo.svg';
 import './App.css';
+import Addition from './components/addition/Addition'
 
 function App() {
   return (
@@ -7,7 +13,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Demo calc;
+          <Addition />
         </p>
         <a
           className="App-link"
