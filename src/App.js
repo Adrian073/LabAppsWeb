@@ -1,3 +1,8 @@
+/* 
+Author adrian
+Date: March 3, 20222
+*/
+
 import logo from './logo.svg';
 import './App.css';
 import Addition from './components/addition/Addition'
