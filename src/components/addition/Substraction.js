@@ -1,3 +1,3 @@
 export default function Addition(){
-    return <p>(+)</p>;
+    return <p>(-)</p>;
 }

@@ -14,7 +14,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          Demo calc;
-         render (<Addition> </Addition>);
+          <Addition />
         </p>
         <a
           className="App-link"
