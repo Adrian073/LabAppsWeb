@@ -7,6 +7,10 @@ import logo from './logo.svg';
 import './App.css';
 import Addition from './components/addition/Addition'
 import Substraction from './components/substraction/Substraction'
+import Multiplication from './components/multiplication/Multiplication'
+import Division from './components/division/Division'
+
+
 
 function App() {
   return (
@@ -17,6 +21,8 @@ function App() {
          Demo calc;
           <Addition />
           <Substraction />
+          <Multiplication />
+          <Division />
         </p>
         <a
           className="App-link"
