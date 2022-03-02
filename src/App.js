@@ -6,6 +6,7 @@ Date: March 3, 20222
 import logo from './logo.svg';
 import './App.css';
 import Addition from './components/addition/Addition'
+import Substraction from './components/substraction/Substraction'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <p>
          Demo calc;
           <Addition />
+          <Substraction />
         </p>
         <a
           className="App-link"
